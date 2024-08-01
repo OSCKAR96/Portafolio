@@ -1,0 +1,12 @@
+// COMIENZO HABILIDADES
+.habilidad{
+    display: flex;
+    justify-content: center;
+}
+
+.habilidad__icon{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    margin: 10px 100px;
+}
