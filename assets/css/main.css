@@ -11996,9 +11996,10 @@ textarea.form-control-lg {
   margin-left: 20px;
 }
 
-.habilidad {
+.habilidad__titulo {
   display: flex;
   justify-content: center;
+  padding: 40px 0px;
 }
 
 .habilidad__icon {
@@ -12006,4 +12007,47 @@ textarea.form-control-lg {
   justify-content: space-between;
   border: 1px solid;
   margin: 10px 100px;
+}
+
+.proyecto {
+  display: flex;
+  justify-content: center;
+  border: 1px solid;
+}
+
+.proyecto__titulo {
+  padding: 40px 0px;
+}
+
+.proyecto2 {
+  display: flex;
+  justify-content: center;
+  border: 1px solid;
+}
+
+.proyecto2__img {
+  width: 300px;
+  height: 150px;
+  padding: 10px;
+  border: 1px solid;
+}
+
+.proyecto2__titulo {
+  display: block;
+  width: 300px;
+  padding-left: 10px;
+  font-weight: bold;
+  border: 1px solid;
+  font-size: 20px;
+}
+
+.contacto__titulo {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0PX;
+  border: 1px solid;
+}
+
+.contacto__form {
+  border: 1px solid;
 }/*# sourceMappingURL=main.css.map */
